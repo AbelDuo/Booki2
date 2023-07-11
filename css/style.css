@@ -397,7 +397,7 @@ header {
     font-size: 20px;
     margin-bottom: 3%;
   }
-  #list-infos:hover{
+  .list-infos:hover{
     text-decoration: underline;
   }
 
